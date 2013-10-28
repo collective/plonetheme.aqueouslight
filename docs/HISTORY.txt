@@ -1,6 +1,15 @@
 Changelog
 =========
 
+1.1 (unreleased)
+------------------
+
+- Added more strings classifiers items for this packages [macagua]
+
+- Updated manifest file for diazo theme adding preview file [macagua]
+
+- Update information about this package [macagua]
+
 1.0 (6-04-2012)
 -------------------
 
