@@ -1,3 +1,4 @@
+*~
 *.mo
 *.egg-info
 *.egg
@@ -21,4 +22,13 @@ var
 *.pyo
 *.tmp*
 *.swp
+*.kpf
+*.wpr
+.*.cfg
+.project
+.pydevproject
 
+
+
+# OSX
+.DS_Store
