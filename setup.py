@@ -11,7 +11,7 @@ long_description = (
 
 setup(name='plonetheme.aqueouslight',
       version=version,
-      description="An installable Diazo theme for Plone 4.1",
+      description="Aqueous light Theme, is an installable Diazo theme for Plone 4",
       long_description=long_description,
       # Get more strings from http://www.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
