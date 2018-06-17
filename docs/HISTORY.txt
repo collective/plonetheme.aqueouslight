@@ -2,7 +2,9 @@ Changelog
 =========
 
 1.1 (unreleased)
-------------------
+----------------
+
+- Added improvements about README file [macagua]
 
 - Added support for clean uninstallation using GenericSetup profile [macagua]
 
@@ -19,6 +21,6 @@ Changelog
 - Update information about this package [macagua]
 
 1.0 (6-04-2012)
--------------------
+---------------
 
 - Initial release
