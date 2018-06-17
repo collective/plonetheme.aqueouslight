@@ -4,6 +4,8 @@ Changelog
 1.1 (unreleased)
 ------------------
 
+- Added support for clean uninstallation using GenericSetup profile [macagua]
+
 - Changed the description for setuptools metadata classifier [macagua]
 
 - Added the license for setuptools metadata classifier [macagua]
