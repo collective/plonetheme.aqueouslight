@@ -4,6 +4,8 @@ Changelog
 1.1 (unreleased)
 ------------------
 
+- Changed the keywords for setuptools metadata classifier [macagua]
+
 - Added more strings classifiers items for this packages [macagua]
 
 - Updated manifest file for diazo theme adding preview file [macagua]
