@@ -4,6 +4,8 @@ Changelog
 1.1 (unreleased)
 ----------------
 
+- Updated Diazo manifest file [macagua]
+
 - Added improvements about README file [macagua]
 
 - Added support for clean uninstallation using GenericSetup profile [macagua]
