@@ -9,8 +9,7 @@ Introduction
 *plonetheme.aqueouslight* Theme is an installable Plone_ Theme using the **theming** and **packaging** 
 features available in `plone.app.theming`_ to make `Aqueous Light`_ theme by `Six Shooter Media`_ easly available in `Plone`.
 
-.. image:: https://github.com/collective/plonetheme.aqueouslight/raw/master/screenshot.png
-
+.. image:: https://github.com/collective/plonetheme.aqueouslight/raw/master/plonetheme/aqueouslight/static/preview.png
 
 Requirements
 ============
