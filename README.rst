@@ -94,7 +94,10 @@ Credits
 Contact
 =======
 
-.. image:: http://stxnext.pl/open-source/files/stx-next-logo
+.. image:: https://stxnext.com/static/img/logo.830ebe551641.svg
+  :width: 103px
+  :alt: STX Next Logo
+
 
 **STX Next** Sp. z o.o.
 
