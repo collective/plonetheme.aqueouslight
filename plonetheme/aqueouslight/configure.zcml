@@ -19,7 +19,7 @@
 
   <genericsetup:registerProfile
       name="uninstall"
-      title="plonetheme.aqueouslight: Uninstall profile for Plone 4 Diazo Theme"
+      title="plonetheme.aqueouslight Uninstall"
       directory="profiles/uninstall"
       description="Installs the plonetheme.aqueouslight package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
