@@ -68,7 +68,7 @@ Or, you can add it as a dependency on your own product ``setup.py`` file: ::
 Enabling the theme
 ^^^^^^^^^^^^^^^^^^
 
-Browse to ``http://yoursite/Plone/@@theming-controlpanel`` click on ``Enable`` on ``Plonetheme Redmusic`` theme from the Diazo control panel. That's it!
+Browse to ``http://yoursite/Plone/@@theming-controlpanel`` click on ``Enable`` on ``Aqueous Light`` theme from the Diazo control panel. That's it!
 
 
 Contribute
